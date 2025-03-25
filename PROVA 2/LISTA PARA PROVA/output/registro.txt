@@ -1,0 +1,15 @@
+Modelo: ks
+Marca: Volks
+Ano: 6644850
+Cor: Azul
+Valor: 7999.00
+Modelo: sche
+Marca: Porsche
+Ano: 2024
+Cor: verde
+Valor: 1000000.00
+Modelo: 
+Marca: @
+Ano: 9842616
+Cor: ¸/–
+Valor: -1.#R
